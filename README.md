@@ -1,6 +1,10 @@
 # CrowdStrike Threat Hunt Portfolio — Hunting SCATTERED SPIDER
 
-**Analyst:** Shaymill — Cloud & Cybersecurity Engineer  
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-CQL_Threat_Hunt-E01F26?style=flat)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-v14-E63F2B?style=flat)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-Hypothesis_Driven-0078D4?style=flat)
+
+**Analyst:** Oluwaseyi Michael Falode — Cloud & Cybersecurity Engineer  
 **Platform:** CrowdStrike Falcon (Simulated Environment)  
 **Date:** May 2026  
 **Classification:** Portfolio Project
